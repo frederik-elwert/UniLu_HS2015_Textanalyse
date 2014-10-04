@@ -1,7 +1,7 @@
 # Methoden computergestützter Textanalyse
 
---- | ---
 Universität | Luzern
+--- | ---
 Dozent/in | Frederik Elwert, M.A.
 Veranstaltungsart | Masterseminar
 Code | HS141482
