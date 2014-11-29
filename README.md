@@ -38,3 +38,14 @@ Das Seminar wendet sich diesen Möglichkeiten computergestützter Textanalyse zu
 
 * Anwendung 2: Topic Modeling
 * Visualisierung
+
+Die IPython Notebooks in diesem Repository stehen unter der CC-By-Lizenz:
+
+[![Creative Commons Lizenzvertrag][]][]
+<span dct="http://purl.org/dc/terms/" property="dct:title">Material zum Seminar »Methoden computergestützter Textanalyse«, Universität Luzern, HS 2014</span> von [Frederik Elwert][] ist lizenziert unter einer [Creative Commons Namensnennung 4.0 International Lizenz][![Creative Commons Lizenzvertrag][]].
+
+  [Creative Commons Lizenzvertrag]: https://i.creativecommons.org/l/by/4.0/88x31.png
+  [![Creative Commons Lizenzvertrag][]]: http://creativecommons.org/licenses/by/4.0/
+  [Frederik Elwert]: https://github.com/frederik-elwert/UniLu_HS2014_Textanalyse
+
+Begleitende Materialien können unter anderen Lizenzen stehen.
