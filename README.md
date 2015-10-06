@@ -5,7 +5,7 @@ Universität | Luzern
 Dozent/in | Frederik Elwert, M.A.
 Veranstaltungsart | Masterseminar
 Code | HS141482
-Semester | Herbstsemester 2014
+Semester | Herbstsemester 2015
 Durchführender Fachbereich | Soziologie
 Studienstufe | Master
 
@@ -15,29 +15,83 @@ Das Seminar wendet sich diesen Möglichkeiten computergestützter Textanalyse zu
 
 **Hinweis:** Erste Grundlagen der Programmiersprache Python sind für die Veranstaltung erforderlich. Es wird daher die Bereitschaft vorausgesetzt, sich diese im Vorfeld des ersten Blocktermins über einen bereitgestellten Online-Kurs anzueignen.
 
-## Block 1
+## Lernziele
 
-### Freitag, 17.10.2014
+Am Ende des Seminars sollen Sie folgende Kompetenzen erworben haben:
 
-* Text als Struktur – Daten aus dem Internet
+* Sie verstehen Grundzüge von Verfahren computergestützter Textanalyse und haben einen Überblick über ihre Anwendungsgebiete, sowohl innerhalb der wissenschaftlichen Forschung als auch in anderen digitalen Umgebungen.
+* Sie können ausgewählte Methoden computergestützter Textanalyse selbst anwenden und die Ergebnisse interpretieren.
+* Sie können eigenständig Online-Quellen für die Textanalyse aufbereiten. Dazu beherrschen Sie Grundlagen im Programmieren mit Python.
+
+## Anforderungen
+
+Um den Kurs erfolgreich abzuschließen, müssen Sie folgende Leistungen erbringen:
+
+* Anwesenheit zu den beiden Blockterminen
+* Lektüre und Durchführung vorbereitender Übungen
+* Eigenständiges Abschlussprojekt
+
+## Seminarplan
+
+### Selbststudium
+
+Der Kurs setzt Grundkenntnisse in der Programmiersprache Python voraus. Sofern Sie diese nicht bereits besitzen, wird erwartet, dass Sie sich diese im Selbststudium aneignen. Dazu können Sie auf den [Python-Kurs](https://www.codecademy.com/en/tracks/python) von [codeacademy](https://www.codecademy.com/) zurückgreifen.
+
+Für den ersten Block erforderlich sind Kenntnis bis zur Übung “Exam Statistics” (einschließlich).
+
+### Block 1
+
+Vorbereitende Lektüre: Lazer et al. 2009, Mohr 1998, Spangher 2015 und Underwood 2015.
+
+Vorbereitende Übung: Siehe OLAT.
+
+#### Freitag, 6. November 2015
+
+* Einführung: Wozu computergestützte Textanalyse?
 * Text als Muster – Reguläre Ausdrücke
+* Text als Struktur – Daten aus dem Internet
 
-### Samstag, 18.10.2014
+#### Samstag, 7. November 2015
 
 * Text als Sprache – Natural Language Processing
 * Text als Netzwerk – Semantische Netzwerkanalyse
 
-## Block 2
+### Selbststudium
 
-### Freitag, 28.11.2014
+Zwischen den beiden Blöcken sollten Sie
+
+a) die Inhalte des ersten Blocks im Selbststudium nachbereiten,
+b) ggf. Ihre Python-Kenntnisse vertiefen, indem Sie den verbleibenden Teil des [Python-Kurses](https://www.codecademy.com/en/tracks/python) von [codeacademy](https://www.codecademy.com/) absolvieren, und
+c) Ihr eigenes Textcorpus zusammenstellen und aufbereiten.
+
+### Block 2
+
+Vorbereitende Lektüre und Übungen siehe OLAT.
+
+#### Freitag, 27. November 2015
 
 * Text als Daten – Vector-Space-Modelle
 * Anwendung 1: Keyword Extraction
 
-### Samstag, 29.11.2014
+#### Samstag, 28. November 2015
 
 * Anwendung 2: Topic Modeling
 * Visualisierung
+
+### Abschlussprojekt
+
+Für das Abschlussprojekt fertigen Sie eine eigene Analyse an, in der Sie mindestens eine der vermittelten Methoden (Netzwerkanalyse, Keyword Extraction, Topic Modeling) auf ein eigenes Corpus anwenden. Der Schwerpunkt liegt auf der Methodik, die Dokumentation Ihres Projekts sollte dennoch eine knappe Einleitung mit der Darstellung einer Fragestellung sowie einen Schlussteil mit einer Diskussion der Ergebnisse enthalten.
+
+## Literatur
+
+Lazer, David, Alex Pentland, Lada Adamic, Sinan Aral, Albert-László Barabási, Devon Brewer, Nicholas Christakis, et al. 2009. “Computational Social Science.” *Science* 323 (5915) (February 6): 721–723. doi:[10.1126/science.1167742](http://dx.doi.org/10.1126/science.1167742). <http://www.sciencemag.org/content/323/5915/721>.
+
+Mohr, John W. 1998. “Measuring Meaning Structures.” *Annual Review of Sociology* 24 (January 1): 345–370. <http://www.jstor.org/stable/223485>.
+
+Spangher, Alexander. 2015. “Building the Next New York Times Recommendation Engine. Open Blog.” August 11. <http://open.blogs.nytimes.com/2015/08/11/building-the-next-new-york-times-recommendation-engine/>.
+
+Underwood, Ted. 2015. “Seven Ways Humanists Are Using Computers to Understand Text. The Stone and the Shell.” June 4. <http://tedunderwood.com/2015/06/04/seven-ways-humanists-are-using-computers-to-understand-text/>.
+
 
 Die IPython Notebooks in diesem Repository stehen unter der CC-By-Lizenz:
 
